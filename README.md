@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joao-viterbo-vieira
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Data Science and AI
 - 📫 How to reach me joaoviterbovieira@gmail.com
 
 <!---
