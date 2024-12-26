@@ -9,7 +9,6 @@ AI and Data Science enthusiast pursuing an MSc in Data Science and Engineering a
 - Machine Learning Algorithms
 - Statistical Analysis
 - Data Visualization and Analytics Dashboards
-- Business Intelligence Implementation 
 - Process Optimization and Project Management
 
 <!---
