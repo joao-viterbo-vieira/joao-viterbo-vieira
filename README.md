@@ -2,12 +2,13 @@
 AI and Data Science enthusiast pursuing an MSc in Data Science and Engineering at FEUP. Industrial Engineering and Management graduate with a passion for leveraging data-driven solutions and AI technologies to solve complex problems.
 
 ## 🔭 Current Focus
+- Focused on learning the cutting-edge developments in AI from leading industries, markets, top researchers, and the latest academic papers, through institutions like Stanford, MIT, META, OpenAI, Anthropic, etc.
 - AI Applications & Implementation
 - Intelligent Systems Development
 - Data Science & Analytics
 - Machine Learning Algorithms
 - Statistical Analysis
-- Data Visualization
+- Data Visualization and Analytics Dashboards
 - Process Optimization and Project Management
 
 <!---
