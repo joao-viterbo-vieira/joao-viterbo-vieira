@@ -25,7 +25,7 @@ tech_stack = {
 
 ## 📫 Connect
 - Email: joaoviterbovieira@gmail.com
-- [LinkedIn]([your_linkedin_url](https://www.linkedin.com/in/joao-viterbo-vieira/))
+- [LinkedIn] [[your_linkedin_url](https://www.linkedin.com/in/joao-viterbo-vieira/)]
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-viterbo-vieira&show_icons=true&theme=dark)
 
