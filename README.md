@@ -18,7 +18,7 @@ AI and Data Science enthusiast pursuing an MSc in Data Science and Engineering a
 
 ## 📫 Connect
 - Email: joaoviterbovieira@gmail.com
-- [LinkedIn][(https://www.linkedin.com/in/joao-viterbo-vieira/)]
+- [LinkedIn][https://www.linkedin.com/in/joao-viterbo-vieira/]
 
 <!---
 joao-viterbo-vieira/joao-viterbo-vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
