@@ -1,5 +1,5 @@
 ## About Me
-AI and Data Science enthusiast pursuing an MSc in Data Science and Engineering at FEUP. Industrial Engineering and Management graduate with a passion for leveraging data-driven solutions and AI technologies to solve complex problems. Focused on learning the cutting-edge developments in AI from leading industries, markets, top researchers, and the latest academic papers, through institutions like Stanford, MIT, META, OpenAI, Anthropic, etc.
+AI and Data Science enthusiast pursuing an MSc in Data Science and Engineering at FEUP. With a foundation in Industrial Engineering and Management, I am passionate about leveraging data-driven solutions and AI technologies to address complex problems. My focus extends to studying and developing advanced agent-based solutions as a stepping stone towards Artificial Superintelligence (ASI). I am deeply committed to staying at the forefront of AI advancements, continuously learning from leading industries, markets, top researchers, and the latest academic papers through renowned institutions like Stanford, MIT, META, OpenAI, Anthropic, and others.
 
 ## 🔭 Current Focus
 - AI Advancements: Learning cutting-edge AI from top industries, researchers, and papers, via institutions like Stanford, MIT, META, OpenAI, Google etc.
