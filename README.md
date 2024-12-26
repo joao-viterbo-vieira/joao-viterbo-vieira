@@ -8,7 +8,9 @@ AI and Data Science enthusiast pursuing an MSc in Data Science and Engineering a
 - BSc in Industrial Engineering and Management | FEUP
 
 ## 🔭 Current Focus
-- Data Science & AI
+- AI Applications & Implementation
+- Intelligent Systems Development
+- Data Science & Analytics
 - Machine Learning Algorithms
 - Statistical Analysis
 - Data Visualization
@@ -25,9 +27,9 @@ tech_stack = {
 
 ## 📫 Connect
 - Email: joaoviterbovieira@gmail.com
-- [LinkedIn] [[your_linkedin_url](https://www.linkedin.com/in/joao-viterbo-vieira/)]
+- [LinkedIn][(https://www.linkedin.com/in/joao-viterbo-vieira/)]
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-viterbo-vieira&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-viterbo-vieira&show_icons=true&theme=white)
 
 <!---
 joao-viterbo-vieira/joao-viterbo-vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
