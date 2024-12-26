@@ -16,16 +16,6 @@ AI and Data Science enthusiast pursuing an MSc in Data Science and Engineering a
 - Data Visualization
 - Process Optimization and Project Management
 
-## 💡 Skills
-```python
-tech_stack = {
-    'Data Science': ['Python', 'Pandas', 'NumPy', 'Scikit-learn'],
-    'AI & ML': ['TensorFlow', 'PyTorch', 'Deep Learning'],
-    'Data Analysis': ['SQL', 'Data Visualization', 'Statistical Analysis'],
-    'Engineering': ['Process Optimization', 'Project Management', 'Lean Six Sigma']
-}
-```
-
 ## 📫 Connect
 - Email: joaoviterbovieira@gmail.com
 - [LinkedIn][(https://www.linkedin.com/in/joao-viterbo-vieira/)]
