@@ -4,7 +4,7 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ## 🔭 Current Focus
 - AI Advancements: Learning cutting-edge AI from top industries, researchers, and papers, via institutions like Stanford, MIT, META, OpenAI, Google etc.
 - AI Applications & Implementation
-- Intelligent Systems Development
+- Intelligent Systems Development (Agentic AI)
 - Data Science & Analytics
 - Machine Learning Algorithms
 - Statistical Analysis
