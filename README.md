@@ -49,6 +49,9 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-000000?logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+![Llama](https://img.shields.io/badge/Meta_Llama-0769AD?logo=meta&logoColor=white)
 
 
 
