@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=3CB9FF&lines=Hi+👋+I'm+João+Viterbo+Vieira)](https://git.io/typing-svg)
 ## About Me
 I am an AI and Data Science student pursuing an MSc in Data Science and Engineering at FEUP. With a foundation in Industrial Engineering and Management, I am passionate about leveraging data-driven solutions and AI technologies to address complex problems. My focus lies in studying and developing advanced agent-based solutions as a stepping stone toward Artificial Superintelligence (ASI). I am deeply committed to staying at the forefront of AI advancements, continuously learning from leading industries, markets, top researchers, and the latest academic papers from renowned institutions such as Stanford, MIT, Google, META, OpenAI, Anthropic, and others.
 
@@ -30,6 +29,7 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
 
