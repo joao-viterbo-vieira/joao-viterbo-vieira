@@ -13,8 +13,7 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 - Data Visualization and Analytics Dashboards
 - Process Optimization and Project Management
 
-![AI](https://img.shields.io/badge/AI-DeepLearning-blueviolet?logo=OpenAI&logoColor=white)
-![GraphML](https://img.shields.io/badge/Graphs-Complexity-green)
+![GitHub Streak](https://streak-stats.demolab.com/?user=joao-viterbo-vieira&theme=tokyonight)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=joao-viterbo-vieira&color=blue)
