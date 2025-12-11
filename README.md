@@ -18,6 +18,7 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9900?logo=huggingface&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
@@ -31,7 +32,7 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?logo=openai&logoColor=white)
 
 
 
