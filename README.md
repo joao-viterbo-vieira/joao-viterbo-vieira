@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=3CB9FF&lines=Hi+👋+I'm+João+Viterbo+Vieira)](https://git.io/typing-svg)
-
-
 ## About Me
 I am an AI and Data Science student pursuing an MSc in Data Science and Engineering at FEUP. With a foundation in Industrial Engineering and Management, I am passionate about leveraging data-driven solutions and AI technologies to address complex problems. My focus lies in studying and developing advanced agent-based solutions as a stepping stone toward Artificial Superintelligence (ASI). I am deeply committed to staying at the forefront of AI advancements, continuously learning from leading industries, markets, top researchers, and the latest academic papers from renowned institutions such as Stanford, MIT, Google, META, OpenAI, Anthropic, and others.
 
@@ -20,15 +18,8 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-viterbo-vieira&show_icons=true&theme=tokyonight)
-
-
-
 ![Profile views](https://komarev.com/ghpvc/?username=joao-viterbo-vieira&color=blue)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-viterbo-vieira&layout=compact&theme=tokyonight)
 
 <!---
 joao-viterbo-vieira/joao-viterbo-vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
