@@ -36,6 +36,7 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white)
+![Llama](https://img.shields.io/badge/Meta_Llama-0769AD?logo=meta&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -49,10 +50,6 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-000000?logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
-![Llama](https://img.shields.io/badge/Meta_Llama-0769AD?logo=meta&logoColor=white)
-
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=joao-viterbo-vieira&color=blue)
