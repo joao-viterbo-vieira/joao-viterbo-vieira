@@ -31,15 +31,8 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white)
-![Microsoft AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-0078D4?logo=microsoft&logoColor=white)
-![OpenAI ADK](https://img.shields.io/badge/OpenAI_ADK-412991?logo=openai&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-000000?logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FFDD00?logo=llama&logoColor=black)
-![CrewAI](https://img.shields.io/badge/CrewAI-6A1B9A?logo=ai&logoColor=white)
-![Haystack](https://img.shields.io/badge/Haystack-0B6EFD?logo=apache&logoColor=white)
-![HF Agents](https://img.shields.io/badge/HuggingFace_Agents-FF9900?logo=huggingface&logoColor=white)
-![ReAct](https://img.shields.io/badge/ReAct_Agents-0D9488?logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?logo=openai&logoColor=white)
+
 
 
 
