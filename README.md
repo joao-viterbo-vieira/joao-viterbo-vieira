@@ -2,6 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=joao-viterbo-vieira&style=for-the-badge&color=blue)
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/joao-viterbo-vieira&count_bg=%2379C83D&title_bg=%23555555&title=views&edge_flat=false)
+
 
 ## About Me
 I am an AI and Data Science student pursuing an MSc in Data Science and Engineering at FEUP. With a foundation in Industrial Engineering and Management, I am passionate about leveraging data-driven solutions and AI technologies to address complex problems. My focus lies in studying and developing advanced agent-based solutions as a stepping stone toward Artificial Superintelligence (ASI). I am deeply committed to staying at the forefront of AI advancements, continuously learning from leading industries, markets, top researchers, and the latest academic papers from renowned institutions such as Stanford, MIT, Google, META, OpenAI, Anthropic, and others.
