@@ -1,8 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=joao-viterbo-vieira&color=blue)
-
-![Profile views](https://komarev.com/ghpvc/?username=joao-viterbo-vieira&style=for-the-badge&color=blue)
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/joao-viterbo-vieira&count_bg=%2379C83D&title_bg=%23555555&title=views&edge_flat=false)
 
 
 ## About Me
@@ -17,6 +12,8 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 - Statistical Analysis
 - Data Visualization and Analytics Dashboards
 - Process Optimization and Project Management
+
+![Profile views](https://komarev.com/ghpvc/?username=joao-viterbo-vieira&color=blue)
 <!---
 joao-viterbo-vieira/joao-viterbo-vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
