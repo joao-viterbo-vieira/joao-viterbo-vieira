@@ -11,6 +11,7 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 - Data Visualization and Analytics Dashboards
 - Process Optimization and Project Management
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
