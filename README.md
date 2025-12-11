@@ -13,6 +13,10 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 - Data Visualization and Analytics Dashboards
 - Process Optimization and Project Management
 
+![AI](https://img.shields.io/badge/AI-DeepLearning-blueviolet?logo=OpenAI&logoColor=white)
+![GraphML](https://img.shields.io/badge/Graphs-Complexity-green)
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=joao-viterbo-vieira&color=blue)
 <!---
 joao-viterbo-vieira/joao-viterbo-vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
