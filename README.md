@@ -30,6 +30,9 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -41,6 +44,8 @@ I am an AI and Data Science student pursuing an MSc in Data Science and Engineer
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 
 
